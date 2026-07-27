@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# PyCharm 配置
+.idea/
+
+# 环境变量与许可证
+.env
+gurobi.lic
+
+# Gurobi 自动生成的文件
+*.log
+*.sol
